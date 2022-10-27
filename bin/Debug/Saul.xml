@@ -1,0 +1,10 @@
+<Usuario>
+  <Nombre>Saul</Nombre>
+  <Carro>1</Carro>
+  <Partidas>13</Partidas>
+  <PartidasLimpias>5</PartidasLimpias>
+  <PalabrasComplejasC>53</PalabrasComplejasC>
+  <PalabrasComplejasI>4</PalabrasComplejasI>
+  <PalabrasCorrectas>278</PalabrasCorrectas>
+  <PalabrasIncorrectas>21</PalabrasIncorrectas>
+</Usuario>

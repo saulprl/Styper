@@ -1,0 +1,59 @@
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\bin\Debug\Styper v2.exe.config
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\bin\Debug\Styper v2.exe
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\bin\Debug\Styper v2.pdb
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Properties.Resources.resources
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper v2.csproj.GenerateResource.cache
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper v2.csproj.CoreCompileInputs.cache
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper v2.exe
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper v2.pdb
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Ventana1.resources
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Ventana2.resources
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Ventana3.resources
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Ventana4.resources
+C:\Users\Kevstrosky\Documents\C#\Styper v2\Styper v2\obj\Debug\Styper_v2.Ventana5.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.csproj.AssemblyReference.cache
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Ventana4.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Ventana3.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Ventana1.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Properties.Resources.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Ventana2.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.Ventana5.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaCarrera.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaContrarreloj.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaDificultad.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaModo.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaPuntuaciones.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaRetos.resources
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.csproj.GenerateResource.cache
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.csproj.CoreCompileInputs.cache
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.exe
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.pdb
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\bin\Debug\Styper v2.exe.config
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\bin\Debug\Styper v2.exe
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\bin\Debug\Styper v2.pdb
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper v2.csproj.ResolveComReference.cache
+C:\Users\Equipo - Windows 10\Downloads\Styper-players\Styper-players\Styper v2\obj\Debug\Styper_v2.VentanaConfig.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\bin\Debug\Styper v2.exe.config
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\bin\Debug\Styper v2.exe
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\bin\Debug\Styper v2.pdb
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.csprojAssemblyReference.cache
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Interop.WMPLib.dll
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.csproj.ResolveComReference.cache
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Ventana4.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Ventana3.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Ventana1.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Properties.Resources.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Ventana2.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.Ventana5.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaCarrera.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaContrarreloj.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaDificultad.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaConfig.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaModo.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaPuntuaciones.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper_v2.VentanaRetos.resources
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.csproj.GenerateResource.cache
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.csproj.CoreCompileInputs.cache
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.exe
+C:\Users\phase\Desktop\Courses\2021-2\Práctica de Desarrollo de Sistemas I\Espiral\Styper\Styper v2\obj\Debug\Styper v2.pdb
